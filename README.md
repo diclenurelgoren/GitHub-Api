@@ -3,5 +3,5 @@
 
 <h2>Projenin Görüntüleri</h2>
 
-<img src="![image](https://user-images.githubusercontent.com/103040020/228669059-3e1681df-e552-4f0c-8692-c823668933fb.png)
-">
+![bbbbb](https://user-images.githubusercontent.com/103040020/161749900-fc1fe10d-edac-449f-902d-625997144949.PNG)
+
